@@ -5,6 +5,7 @@
     "7891776230:AAEZPFCreqNKI9SRXqTcc1eibeCMRm7Sr2Y",
     "7993877655:AAHJBgiZ9Ds9_bmTn9D7CqKZhQ_NkjXll2Q",
     "7861053885:AAHgrLw0vvKRoVtGNfKwwbiYr-wkNqVjZ44",
-    "1"
+    "1",
+    "7801046096:AAGbsgP6aZK_y-v5sa2Lu7Jp-rgdY0GcGBY"
   ]
 }
